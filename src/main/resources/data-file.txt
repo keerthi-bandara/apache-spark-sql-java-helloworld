@@ -1,0 +1,4 @@
+this is some demo text
+for testing this
+hello world application
+for text counting.
