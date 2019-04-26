@@ -3,7 +3,7 @@ import org.apache.spark.sql.Dataset;
 
 public class HelloSpark {
 
-    static String LOG_FILE = "/home/keerthi/PROJECTS/java/HelloSpark/src/main/resources/data-file.txt";
+    static String LOG_FILE = "<File Path>/HelloSpark/src/main/resources/data-file.txt";
 
     public static void main(String[] args) {
 
